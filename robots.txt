@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ravin-travel.vercel.app/sitemap.xml
